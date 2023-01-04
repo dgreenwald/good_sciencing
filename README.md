@@ -1,11 +1,10 @@
 # good_sciencing
-Code to debunk Good Sciencing claims that athlete cardiac deaths have increased using their own data.
 
 This repo contains a Python script and text file to show that the Good Sciencing data popularly cited in anti-vaccine arguments 
 
 https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/
 
-do not actually show any increase in athlete deaths compared to Maron et al (2006),
+do not actually show any increase in athlete deaths following the introduction of vaccines (January 2021 onward) compared to Maron et al (2006),
 
 https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.108.804617
 
